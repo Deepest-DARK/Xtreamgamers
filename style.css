@@ -14,9 +14,9 @@
     background-color: white
 }
 
-.container::-webkit-scrollbar{
+/* .container::-webkit-scrollbar{
     display: none;
-}
+} */
 
 .video {
     width: 100%;
